@@ -1,0 +1,8 @@
+com/example/moncalcul/MainActivity.java
+ com.example.moncalcul.MainActivity
+ com.example.moncalcul.MainActivity$1
+com/example/moncalcul/BuildConfig.java
+ com.example.moncalcul.BuildConfig
+com/example/moncalcul/SplashActivity.java
+ com.example.moncalcul.SplashActivity
+ com.example.moncalcul.SplashActivity$1
